@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "glowing_amethyst_blo:block/glowing_amethyst_block"
+  }
+}
